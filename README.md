@@ -1,0 +1,2 @@
+**Crime Classification and Management with Power BI**  
+This project applies Random Forest, Logistic Regression, and Decision Tree classifiers to categorize crimes and predict hotspots. Integrated with Power BI, it visualizes high-crime areas, temporal crime patterns, and the impact of socioeconomic factors, aiding in resource allocation and crime prevention. It also forecasts future crime trends based on historical data.
